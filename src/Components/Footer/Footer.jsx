@@ -7,7 +7,7 @@ export default function Footer() {
     <footer className="footer">
       <div className="container footer-grid">
         <div className="footer-section">
-          <h3 className="footer-title">TraeCommerce</h3>
+          <h3 className="footer-title">E-commerce</h3>
           <p className="footer-text">Your one-stop shop for quality products</p>
         </div>
         <div className="footer-section">
