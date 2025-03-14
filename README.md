@@ -11,4 +11,4 @@ React JS, css
 #Live Demo Link
 You can run the project by clicking on the next link :
 
-https://lustrous-daifuku-d034c3.netlify.app/
+https://marvelous-bunny-670bb1.netlify.app/
